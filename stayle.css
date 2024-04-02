@@ -1,0 +1,11 @@
+.services{
+    text-align: center;
+}
+.service{
+    width: 250px;
+    display: inline-block;
+}
+i{
+    font-size: 40px;
+    color: #f4623a;
+}
